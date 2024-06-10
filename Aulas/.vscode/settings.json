@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Segunda/Segunda/src",
+        "Kell cria",
+        "Curso/Curso"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
